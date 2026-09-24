@@ -1,0 +1,1 @@
+var e=`/system-design-talk-atm-eng/logo-ponad-kodem.svg`;export{e as t};
